@@ -16,4 +16,4 @@ F5 Proyecto diseño aplicación usando Figma.
 
 ## Prototipo de alto nivel
 
-<img src="https://raw.githubusercontent.com/raulalhena/banana-gest/main/PROTOTIPO_ALTO_NIVEL.png" width="70%">
+<img src="https://raw.githubusercontent.com/raulalhena/banana-gest/main/PROTOTIPO_ALTO_NIVEL_NAVEGABLE.png" width="70%">
